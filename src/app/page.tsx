@@ -4,6 +4,7 @@ import React from 'react';
 import HeroSection from '@/components/HeroSection';
 import SpecialtiesSection from '@/components/SpecialtiesSection';
 import MenuHighlightsSection from '@/components/MenuHighlightsSection';
+import AboutSection from '@/components/AboutSection';
 
 export default function HomePage() {
   return (
@@ -14,6 +15,7 @@ export default function HomePage() {
         <HeroSection />
         <SpecialtiesSection />
         <MenuHighlightsSection />
+        <AboutSection />
       </main>
     </>
   );
