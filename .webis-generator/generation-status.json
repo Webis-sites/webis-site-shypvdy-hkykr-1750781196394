@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-06-24T16:11:41.420Z",
+  "timestamp": "2025-06-24T16:12:20.429Z",
   "status": {
     "totalComponents": 13,
-    "completedComponents": 5,
+    "completedComponents": 6,
     "failedComponents": 0,
-    "progress": 38
+    "progress": 46
   },
   "components": [
     {
@@ -40,7 +40,7 @@
     {
       "name": "AboutSection",
       "type": "about",
-      "status": "pending",
+      "status": "completed",
       "description": "Information about the restaurant's story, values and atmosphere"
     },
     {
