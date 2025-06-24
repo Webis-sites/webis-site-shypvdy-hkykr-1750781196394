@@ -5,6 +5,7 @@ import HeroSection from '@/components/HeroSection';
 import SpecialtiesSection from '@/components/SpecialtiesSection';
 import MenuHighlightsSection from '@/components/MenuHighlightsSection';
 import AboutSection from '@/components/AboutSection';
+import GallerySection from '@/components/GallerySection';
 
 export default function HomePage() {
   return (
@@ -16,6 +17,7 @@ export default function HomePage() {
         <SpecialtiesSection />
         <MenuHighlightsSection />
         <AboutSection />
+        <GallerySection />
       </main>
     </>
   );
