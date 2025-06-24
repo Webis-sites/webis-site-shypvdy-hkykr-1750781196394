@@ -1,8 +1,11 @@
 {
-  "projectName": "שיפודי-הכיכר-1196",
-  "businessName": "שיפודי הכיכר",
-  "created": "2025-06-24T16:06:36.449Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-06-24T16:07:07.868Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-shypvdy-hkykr-1750781196394"
 }
