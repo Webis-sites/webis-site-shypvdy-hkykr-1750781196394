@@ -1,0 +1,7 @@
+
+    # robots.txt for שיפודי הכיכר
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://שיפודי-הכיכר.com/sitemap.xml
