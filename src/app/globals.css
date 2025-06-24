@@ -17,6 +17,8 @@
   --animation-duration: 0.3s;
 
   --font-family-main: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  --grid-pattern: linear-gradient(to right, #eaf73b 1px, transparent 1px), linear-gradient(to bottom, #eaf73b 1px, transparent 1px);
 }
 
     html {
