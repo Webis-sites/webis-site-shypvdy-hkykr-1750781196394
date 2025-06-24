@@ -1,11 +1,90 @@
 {
-  "timestamp": "2025-06-24T16:07:07.868Z",
+  "timestamp": "2025-06-24T16:08:02.926Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 13,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Root layout component with metadata and global styles"
+    },
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL-optimized navigation bar with the restaurant name and links to page sections"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Eye-catching hero section showcasing the restaurant's authentic Israeli grill experience"
+    },
+    {
+      "name": "SpecialtiesSection",
+      "type": "features",
+      "status": "pending",
+      "description": "Showcase of the restaurant's specialty skewers and grilled items"
+    },
+    {
+      "name": "MenuHighlightsSection",
+      "type": "products",
+      "status": "pending",
+      "description": "Featured menu items with images, descriptions and prices"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Information about the restaurant's story, values and atmosphere"
+    },
+    {
+      "name": "GallerySection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Visual showcase of the restaurant's food, interior and atmosphere"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Customer reviews and testimonials highlighting positive experiences"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "Reservation system for booking tables at the restaurant"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions about the restaurant"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information and form for customer inquiries"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Call-to-action section encouraging online orders or reservations"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Footer with business information, links and social media"
+    }
+  ],
   "repoName": "webis-site-shypvdy-hkykr-1750781196394"
 }
